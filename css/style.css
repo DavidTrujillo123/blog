@@ -35,3 +35,9 @@ body{
 #post{
     padding: 1em;
 }
+.pie{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
